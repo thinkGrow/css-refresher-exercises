@@ -11,8 +11,7 @@
   padding: 8px 12px;
   /* background-color: #ff0000; */
   color: red;
-  border: 3px solid red;
-  border-radius: 30%;
-  /* outline: 4px solid #ff8c8c; */
+  border: 2px solid red;
+  border-radius: 50px;
   margin: 20px;
 }

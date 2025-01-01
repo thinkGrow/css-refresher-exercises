@@ -5,4 +5,5 @@
   border: 5px dotted #ad0000;
   outline: 4px solid #ff8c8c;
   margin: 20px;
+  outline-offset: 15px;
 }
